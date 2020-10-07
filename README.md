@@ -5,4 +5,4 @@
  todas as minhas formas apreendidas de criar um olá mundo na tela 
  isso com as linguagens que estou a aprender no momento.
  
- Sou Estudante de Tecnologia
+ **Sou Estudante de Tecnologia!!**
